@@ -1,6 +1,8 @@
 # Brain-tumour-Classification 
 
-![Brain-MRI-Image-Classification-Using-Deep-Learning-Cover-Photo](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/blob/main/Project-Cover-Photo.jpg)  
+
+![Brain-MRI-Image-Classification-Using-Deep-Learning-Cover-Photo](<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/3746275a-f525-4a49-8b2a-7baa5e596ad0" />
+)  
 
 ## Introduction  
 Brain tumors are abnormal growths of cells within the brain that can be either malignant (cancerous) or benign (non-cancerous). Early and accurate diagnosis is critical for effective treatment planning and improving patient survival rates. Traditional diagnosis involves manual inspection of MRI scans by radiologists, a process that can be time-consuming and subject to human error, especially when tumor features are subtle.
